@@ -1,6 +1,4 @@
 
-<img src="https://i.postimg.cc/Qx0vwDgk/Prancheta-1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="HTML e CSS">
-
 <p align="left">
 
 I'm a <strong> front-end developer and an advertising professional </strong>from Indaiatuba, Brazil. <br>
