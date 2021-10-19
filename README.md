@@ -1,5 +1,7 @@
 
 <p align="left">
+  
+# Hi! :wave:
 
 I'm a <strong> front-end developer and an advertising professional </strong>from Indaiatuba, Brazil. <br>
 
