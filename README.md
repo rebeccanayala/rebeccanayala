@@ -12,11 +12,8 @@ I'm a <strong> front-end developer and an advertising professional </strong>from
 
 👨‍💻 Skills: 
 <strong> 
-<ul> <li> HTML </li> 
-<li> CSS </li>
-<li> JavaScript </li>
-<li> MySQL </li>
-<li> SQL </li>
+<ul> <li> HTML, CSS, JavaScript </li> 
+<li> MySQL, SQL </li>
 </strong> </ul>
 
 </p>
