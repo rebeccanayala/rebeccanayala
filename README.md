@@ -3,7 +3,7 @@
   
 <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-I'm a <strong> front-end developer and an advertising professional </strong> from Indaiatuba, Brazil.
+I'm a <strong> front-end developer student and an advertising professional </strong> from Indaiatuba, Brazil.
 
 👩‍🎓 I have a degree in Advertising and a postgraduate degree in Digital Marketing. Now, I'm studying Internet Systems.
 
