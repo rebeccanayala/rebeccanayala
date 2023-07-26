@@ -5,7 +5,7 @@ I am an Advertising Professional and post graduated in Digital Marketing.
 Now, I'm studying front-end engineering.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccanayala/)](https://www.linkedin.com/in/rebeccanayala/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rebeccanayala/?hl=pt-br)](https://instagram.com/rebeccanayala)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rebeccanayala/?hl=pt-br)](https://instagram.com/rebeccanayala)
 
 ## 🚀 Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
