@@ -7,8 +7,7 @@ Now, I'm studying front-end engineering.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccanayala/)](https://www.linkedin.com/in/rebeccanayala/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rebeccanayala/?hl=pt-br)](https://instagram.com/rebeccanayala)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccanayala)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccanayala&layout=compact)](https://github.com/rebeccanayala/github-readme-stats)
 
 
 
