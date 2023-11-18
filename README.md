@@ -1,6 +1,11 @@
-# Hi! 👋
+# Hello! 👋
 
-Back-end Java student
+Degree in Advertising, postgraduate in Digital Marketing, now diving into Full Stack Java development. Passionate about challenges and constant growth, I'm committed to excellence in every project.
+
+Let's collaborate on something amazing! Reach out anytime for a chat about coding, projects, or anything in between.
+
+Happy coding! 🚀
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccanayala/)](https://www.linkedin.com/in/rebeccanayala/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rebeccanayala/?hl=pt-br)](https://instagram.com/rebeccanayala)
