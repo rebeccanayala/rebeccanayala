@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Degree in Advertising, postgraduate in Digital Marketing, now diving into Full Stack Java development. Passionate about challenges and constant growth, I'm committed to excellence in every project.
 
