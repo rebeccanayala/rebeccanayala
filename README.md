@@ -1,10 +1,10 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Degree in Advertising, postgraduate in Digital Marketing, now diving into Full Stack Java development. Passionate about challenges and constant growth, I'm committed to excellence in every project.
+Graduated in Advertising, with a postgraduate degree in Digital Marketing, currently delving into Full Stack Java development. Passionate about challenges, I am dedicated to achieving excellence in every project.
 
-Let's collaborate on something amazing! Reach out anytime for a chat about coding, projects, or anything in between.
+Open to collaborations and always available for discussions on coding, projects, and more. 
 
-Happy coding! 🚀
+Let's create something amazing together! 🚀
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccanayala/)](https://www.linkedin.com/in/rebeccanayala/)
