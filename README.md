@@ -2,7 +2,7 @@
 
 Graduated in Advertising, with a postgraduate degree in Digital Marketing, currently pursuing a degree in Analysis and Systems Development while exploring Full Stack Java development. Always seeking continuous learning 🔍
 
-Open to collaborations and always available for discussions on coding, projects, and more.
+Open to collaborations and always available for discussions on coding, projects and more.
 
 Let's create something amazing together! 🚀
 
