@@ -1,8 +1,8 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Graduated in Advertising, with a postgraduate degree in Digital Marketing, currently pursuing a degree in Analysis and Systems Development while exploring Full Stack Java development. Always seeking continuous learning 🔍
+Graduated in Advertising, with a postgraduate degree in Digital Marketing, currently pursuing a degree in Analysis and Systems Development while exploring Full Stack Java development. Today, I work in the IT field.
 
-Open to collaborations and always available for discussions on coding, projects and more.
+Always seeking continuous learning and open to collaborations, and always available for discussions on coding, projects and more.
 
 Let's create something amazing together! 🚀
 
