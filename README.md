@@ -4,7 +4,7 @@ Graduated in Advertising with a postgraduate degree in Digital Marketing, curren
 
 I am always seeking continuous learning, open to collaborations, and readily available for discussions about programming, projects, and much more.
 
-Let's create something amazing together! 🚀
+Let's create something amazing together! 🚀 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccanayala/)](https://www.linkedin.com/in/rebeccanayala/)
 [![Gmail Badge](https://img.shields.io/badge/-rebeccanayala@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccanayala@gmail.com)](mailto:rebeccanayala@gmail.com)
